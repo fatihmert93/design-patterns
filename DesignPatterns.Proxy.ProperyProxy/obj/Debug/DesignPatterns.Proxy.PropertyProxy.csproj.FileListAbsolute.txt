@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\bin\Debug\DesignPatterns.Proxy.PropertyProxy.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\bin\Debug\DesignPatterns.Proxy.PropertyProxy.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\bin\Debug\DesignPatterns.Proxy.PropertyProxy.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\obj\Debug\DesignPatterns.Proxy.PropertyProxy.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\obj\Debug\DesignPatterns.Proxy.PropertyProxy.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.ProperyProxy\obj\Debug\DesignPatterns.Proxy.PropertyProxy.pdb

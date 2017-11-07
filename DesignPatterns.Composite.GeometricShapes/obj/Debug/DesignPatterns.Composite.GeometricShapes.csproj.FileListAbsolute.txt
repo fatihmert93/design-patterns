@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\bin\Debug\DesignPatterns.Composite.GeometricShapes.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\bin\Debug\DesignPatterns.Composite.GeometricShapes.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\bin\Debug\DesignPatterns.Composite.GeometricShapes.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\obj\Debug\DesignPatterns.Composite.GeometricShapes.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\obj\Debug\DesignPatterns.Composite.GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\obj\Debug\DesignPatterns.Composite.GeometricShapes.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.GeometricShapes\obj\Debug\DesignPatterns.Composite.GeometricShapes.pdb

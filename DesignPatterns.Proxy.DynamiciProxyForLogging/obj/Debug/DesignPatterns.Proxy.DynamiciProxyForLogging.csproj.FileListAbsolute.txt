@@ -1,0 +1,9 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\bin\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\bin\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\bin\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\bin\Debug\ImpromptuInterface.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\bin\Debug\ImpromptuInterface.xml
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\obj\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\obj\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\obj\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Proxy.DynamiciProxyForLogging\obj\Debug\DesignPatterns.Proxy.DynamiciProxyForLogging.pdb

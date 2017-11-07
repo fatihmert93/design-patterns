@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\bin\Debug\DesignPatterns.Builder.FacetedBuilder.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\bin\Debug\DesignPatterns.Builder.FacetedBuilder.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\bin\Debug\DesignPatterns.Builder.FacetedBuilder.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\obj\Debug\DesignPatterns.Builder.FacetedBuilder.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\obj\Debug\DesignPatterns.Builder.FacetedBuilder.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\obj\Debug\DesignPatterns.Builder.FacetedBuilder.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Builder.FacetedBuilder\obj\Debug\DesignPatterns.Builder.FacetedBuilder.pdb

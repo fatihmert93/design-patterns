@@ -1,0 +1,8 @@
+﻿Tokyo
+12243490
+New York
+17800000
+Sao Paulo
+17700000
+Osaka
+16425000

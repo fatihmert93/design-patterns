@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\bin\Debug\DesignPatterns.Decorator.MultipleInheritance.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\bin\Debug\DesignPatterns.Decorator.MultipleInheritance.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\bin\Debug\DesignPatterns.Decorator.MultipleInheritance.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\obj\Debug\DesignPatterns.Decorator.MultipleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\obj\Debug\DesignPatterns.Decorator.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\obj\Debug\DesignPatterns.Decorator.MultipleInheritance.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.MultipleInheritance\obj\Debug\DesignPatterns.Decorator.MultipleInheritance.pdb

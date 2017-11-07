@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\bin\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\bin\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\bin\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\obj\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\obj\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Decorator.DynamicDecoratorCompostion\obj\Debug\DesignPatterns.Decorator.DynamicDecoratorCompostion.pdb

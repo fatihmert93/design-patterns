@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\bin\Debug\DesignPatterns.Singleton.Monostate.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\bin\Debug\DesignPatterns.Singleton.Monostate.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\bin\Debug\DesignPatterns.Singleton.Monostate.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\obj\Debug\DesignPatterns.Singleton.Monostate.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\obj\Debug\DesignPatterns.Singleton.Monostate.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\obj\Debug\DesignPatterns.Singleton.Monostate.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.Monostate\obj\Debug\DesignPatterns.Singleton.Monostate.pdb

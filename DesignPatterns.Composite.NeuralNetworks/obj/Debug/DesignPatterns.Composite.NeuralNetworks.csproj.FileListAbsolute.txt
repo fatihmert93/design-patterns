@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\bin\Debug\DesignPatterns.Composite.NeuralNetworks.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\bin\Debug\DesignPatterns.Composite.NeuralNetworks.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\bin\Debug\DesignPatterns.Composite.NeuralNetworks.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\obj\Debug\DesignPatterns.Composite.NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\obj\Debug\DesignPatterns.Composite.NeuralNetworks.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\obj\Debug\DesignPatterns.Composite.NeuralNetworks.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Composite.NeuralNetworks\obj\Debug\DesignPatterns.Composite.NeuralNetworks.pdb

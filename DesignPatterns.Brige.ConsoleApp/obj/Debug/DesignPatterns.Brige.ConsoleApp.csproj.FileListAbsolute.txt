@@ -1,0 +1,9 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\bin\Debug\DesignPatterns.Brige.ConsoleApp.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\bin\Debug\DesignPatterns.Brige.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\bin\Debug\DesignPatterns.Brige.ConsoleApp.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\obj\Debug\DesignPatterns.Brige.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\obj\Debug\DesignPatterns.Brige.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\obj\Debug\DesignPatterns.Brige.ConsoleApp.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\bin\Debug\Autofac.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\bin\Debug\Autofac.xml
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Brige.ConsoleApp\obj\Debug\DesignPatterns.Brige.ConsoleApp.csprojResolveAssemblyReference.cache

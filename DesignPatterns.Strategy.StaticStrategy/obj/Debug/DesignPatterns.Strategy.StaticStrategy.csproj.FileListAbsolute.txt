@@ -1,0 +1,6 @@
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\bin\Debug\DesignPatterns.Strategy.StaticStrategy.exe.config
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\bin\Debug\DesignPatterns.Strategy.StaticStrategy.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\bin\Debug\DesignPatterns.Strategy.StaticStrategy.pdb
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\obj\Debug\DesignPatterns.Strategy.StaticStrategy.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\obj\Debug\DesignPatterns.Strategy.StaticStrategy.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.StaticStrategy\obj\Debug\DesignPatterns.Strategy.StaticStrategy.pdb

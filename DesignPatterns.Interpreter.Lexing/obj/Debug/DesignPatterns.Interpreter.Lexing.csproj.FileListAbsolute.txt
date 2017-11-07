@@ -1,0 +1,7 @@
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\obj\Debug\DesignPatterns.Interpreter.Lexing.csprojResolveAssemblyReference.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\obj\Debug\DesignPatterns.Interpreter.Lexing.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\bin\Debug\DesignPatterns.Interpreter.Lexing.exe.config
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\bin\Debug\DesignPatterns.Interpreter.Lexing.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\bin\Debug\DesignPatterns.Interpreter.Lexing.pdb
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\obj\Debug\DesignPatterns.Interpreter.Lexing.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Interpreter.Lexing\obj\Debug\DesignPatterns.Interpreter.Lexing.pdb

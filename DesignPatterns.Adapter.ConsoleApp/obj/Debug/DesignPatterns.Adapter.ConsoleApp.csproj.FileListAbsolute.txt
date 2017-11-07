@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\bin\Debug\DesignPatterns.Adapter.ConsoleApp.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\bin\Debug\DesignPatterns.Adapter.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\bin\Debug\DesignPatterns.Adapter.ConsoleApp.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\obj\Debug\DesignPatterns.Adapter.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\obj\Debug\DesignPatterns.Adapter.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\obj\Debug\DesignPatterns.Adapter.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Adapter.ConsoleApp\obj\Debug\DesignPatterns.Adapter.ConsoleApp.pdb

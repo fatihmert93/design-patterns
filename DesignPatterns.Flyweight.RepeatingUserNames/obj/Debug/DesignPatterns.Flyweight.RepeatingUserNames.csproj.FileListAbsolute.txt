@@ -1,0 +1,11 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\DesignPatterns.Flyweight.RepeatingUserNames.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\DesignPatterns.Flyweight.RepeatingUserNames.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\DesignPatterns.Flyweight.RepeatingUserNames.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\dotMemory.Unit.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\nunit.framework.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\dotMemory.Unit.xml
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\bin\Debug\nunit.framework.xml
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\obj\Debug\DesignPatterns.Flyweight.RepeatingUserNames.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\obj\Debug\DesignPatterns.Flyweight.RepeatingUserNames.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\obj\Debug\DesignPatterns.Flyweight.RepeatingUserNames.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Flyweight.RepeatingUserNames\obj\Debug\DesignPatterns.Flyweight.RepeatingUserNames.pdb

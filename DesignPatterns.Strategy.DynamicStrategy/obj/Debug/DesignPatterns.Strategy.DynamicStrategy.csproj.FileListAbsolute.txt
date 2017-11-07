@@ -1,0 +1,7 @@
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\bin\Debug\DesignPatterns.Strategy.DynamicStrategy.exe.config
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\bin\Debug\DesignPatterns.Strategy.DynamicStrategy.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\bin\Debug\DesignPatterns.Strategy.DynamicStrategy.pdb
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\obj\Debug\DesignPatterns.Strategy.DynamicStrategy.csprojResolveAssemblyReference.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\obj\Debug\DesignPatterns.Strategy.DynamicStrategy.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\obj\Debug\DesignPatterns.Strategy.DynamicStrategy.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.Strategy.DynamicStrategy\obj\Debug\DesignPatterns.Strategy.DynamicStrategy.pdb

@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\bin\Debug\DesignPatterns.Factory.AbstractFactory.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\bin\Debug\DesignPatterns.Factory.AbstractFactory.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\bin\Debug\DesignPatterns.Factory.AbstractFactory.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\obj\Debug\DesignPatterns.Factory.AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\obj\Debug\DesignPatterns.Factory.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\obj\Debug\DesignPatterns.Factory.AbstractFactory.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Factory.AbstractFactory\obj\Debug\DesignPatterns.Factory.AbstractFactory.pdb

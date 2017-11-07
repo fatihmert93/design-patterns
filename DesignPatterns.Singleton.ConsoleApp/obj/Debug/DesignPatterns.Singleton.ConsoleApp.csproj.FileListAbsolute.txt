@@ -1,0 +1,11 @@
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\DesignPatterns.Singleton.ConsoleApp.exe.config
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\DesignPatterns.Singleton.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\DesignPatterns.Singleton.ConsoleApp.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\MoreLinq.Portable.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\MoreLinq.Portable.xml
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\obj\Debug\DesignPatterns.Singleton.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\obj\Debug\DesignPatterns.Singleton.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\obj\Debug\DesignPatterns.Singleton.ConsoleApp.exe
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\obj\Debug\DesignPatterns.Singleton.ConsoleApp.pdb
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\nunit.framework.dll
+C:\Users\fmert\source\repos\DesignPatterns\DesignPatterns.Singleton.ConsoleApp\bin\Debug\nunit.framework.xml

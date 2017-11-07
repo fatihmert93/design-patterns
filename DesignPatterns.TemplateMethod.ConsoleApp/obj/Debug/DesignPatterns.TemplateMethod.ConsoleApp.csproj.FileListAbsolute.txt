@@ -1,0 +1,6 @@
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\bin\Debug\DesignPatterns.TemplateMethod.ConsoleApp.exe.config
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\bin\Debug\DesignPatterns.TemplateMethod.ConsoleApp.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\bin\Debug\DesignPatterns.TemplateMethod.ConsoleApp.pdb
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\obj\Debug\DesignPatterns.TemplateMethod.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\obj\Debug\DesignPatterns.TemplateMethod.ConsoleApp.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.ConsoleApp\obj\Debug\DesignPatterns.TemplateMethod.ConsoleApp.pdb

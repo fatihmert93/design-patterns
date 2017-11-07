@@ -1,0 +1,7 @@
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\bin\Debug\DesignPatterns.TemplateMethod.GunSample.exe.config
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\bin\Debug\DesignPatterns.TemplateMethod.GunSample.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\bin\Debug\DesignPatterns.TemplateMethod.GunSample.pdb
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\obj\Debug\DesignPatterns.TemplateMethod.GunSample.csprojResolveAssemblyReference.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\obj\Debug\DesignPatterns.TemplateMethod.GunSample.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\obj\Debug\DesignPatterns.TemplateMethod.GunSample.exe
+C:\Users\fmert\Documents\GitHub\DesignPatterns\DesignPatterns.TemplateMethod.GunSample\obj\Debug\DesignPatterns.TemplateMethod.GunSample.pdb
